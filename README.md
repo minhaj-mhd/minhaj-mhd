@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minhaj-mhd
 - 👀 I’m interested in creating Dapps
 - 🌱 I’m currently learning Solidity,
-- 💞️ I’m looking to collaborate on projects built on Etherium
+- 💞️ I’m looking to collaborate on projects built on Ethereum
 - 📫 Reach me @minhajmuhamad on twitter
 
 <!---
