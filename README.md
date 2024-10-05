@@ -6,8 +6,8 @@
 
 -💞️ I’m looking to collaborate on projects built on Django
 
--💻 Skills: JavaScript, Python, Scilla, Solidity
+-💻 Languages: JavaScript, Python, Scilla, Solidity
 
--🛠️ Frameworks/Libs: React, Next.js, Django
+-🛠️ Frameworks/Libs: React, Next.js, Django, DRF
 
 📫 Reach me on Twitter @minhajmuhamad
