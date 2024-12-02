@@ -1,10 +1,10 @@
 -👋 Hi, I’m @minhaj-mhd
 
--👀 Just exploring new worlds of programming
+-👀 Just exploring new worlds in programming
 
--🌱 I’m currently learning Django
+-🌱 I’m currently learning python based web frameworks
 
--💞️ I’m looking to collaborate on projects built on Django
+-💞️ I’m looking to collaborate on projects built on Python and js
 
 -💻 Languages: JavaScript, Python, Scilla, Solidity
 
