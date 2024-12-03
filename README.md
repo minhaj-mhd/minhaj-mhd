@@ -8,6 +8,6 @@
 
 -💻 Languages: JavaScript, Python, Scilla, Solidity
 
--🛠️ Frameworks/Libs: React, Next.js, Django, DRF
+-🛠️ Frameworks/Libs: React, Next.js, Django, DRF , FastAPI
 
 📫 Reach me on Twitter @minhajmuhamad
