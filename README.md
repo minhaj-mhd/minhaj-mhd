@@ -2,7 +2,7 @@
 
 -👀 Just exploring new worlds in programming
 
--🌱 I’m currently learning python based web frameworks
+-🌱 I’m currently learning FastAPI and Natural Language Processing (NLP) with Python.
 
 -💞️ I’m looking to collaborate on projects built on Python and js
 
