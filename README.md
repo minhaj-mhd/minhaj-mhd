@@ -136,7 +136,7 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaj-mhd&theme=tokyo-night"/>
 
 </p>
 
