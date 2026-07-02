@@ -16,7 +16,6 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 - 🤖 Passionate about **Machine Learning**, **LLMs**, **Transformers**, and **Recommendation Systems**
 - ⚙️ Interested in distributed systems, inference optimization, and AI infrastructure
 - 📚 Currently learning advanced Deep Learning, MLOps, and Large Language Models
-- 🎯 Goal: Become one of the world's top AI/ML Engineers
 
 ---
 
@@ -115,9 +114,9 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaj-mhd&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-mhd&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -127,7 +126,7 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-mhd&theme=tokyonight"/>
 
 </p>
 
