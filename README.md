@@ -157,9 +157,9 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/mohmmed-minhaj)
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/minhajmuhamad)
 
 ---
 
