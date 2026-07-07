@@ -12,7 +12,6 @@ Building scalable AI systems, backend infrastructure, and intelligent applicatio
 
 ## 🚀 About Me
 
-- 💻 Backend Engineer specializing in **Python**, **FastAPI**, and **Django**
 - 🤖 Passionate about **Machine Learning**, **LLMs**, **Transformers**, and **Recommendation Systems**
 - ⚙️ Interested in distributed systems, inference optimization, and AI infrastructure
 - 📚 Currently learning advanced Deep Learning, MLOps, and Large Language Models
