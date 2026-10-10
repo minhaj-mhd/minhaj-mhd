@@ -1,171 +1,85 @@
-# Hi, I'm Mohammed Minhaj 👋
-
 <div align="center">
 
-### AI Engineer | Backend Engineer | Machine Learning Enthusiast
+<p><strong>AI / ML Engineer · Backend Systems · Agent Evaluation</strong></p>
 
-Building scalable AI systems, backend infrastructure, and intelligent applications.
+<p>I build AI systems — and test where they break.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohmmed-minhaj-05496a6a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:minhajmuhamad@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/minhaj-mhd?tab=repositories">Explore my code</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-181717?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PyTorch-181717?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/FastAPI-181717?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
 
 </div>
 
----
+I'm a software engineer working across machine learning, AI agents, and backend engineering.
+My work spans recommendation models, real-time voice assistants, marketplace services, and reproducible benchmarks for coding agents. I enjoy understanding how a system works, building it end to end, and finding the edge cases that a good demo can hide.
+Current focus: coding-agent evaluation and reliable, stateful AI systems.
+Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 About Me
+<h3>Recommendation systems</h3>
+<p>Two-tower retrieval models with transformer-based user history encoding, item embeddings, and FAISS candidate retrieval.</p>
+<p>Work spanning model training, embedding generation, and recommendation serving.</p>
+<p><code>TensorFlow</code> <code>Transformers</code> <code>FAISS</code></p>
 
-- 🤖 Passionate about **Machine Learning**, **LLMs**, **Transformers**, and **Recommendation Systems**
-- ⚙️ Interested in distributed systems, inference optimization, and AI infrastructure
-- 📚 Currently learning advanced Deep Learning, MLOps, and Large Language Models
+</td>
+<td width="50%" valign="top">
 
----
+<h3><a href="https://github.com/minhaj-mhd/personas">Aura · Voice AI with memory ↗</a></h3>
+<p>A multi-persona assistant with live voice conversations, persistent memory, document retrieval, and optional MCP tools.</p>
+<p>Built around async services and context that carries across sessions.</p>
+<p><code>FastAPI</code> <code>Gemini Live</code> <code>pgvector</code></p>
 
-# 🛠 Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Languages
+<h3>Coding-agent benchmarks</h3>
+<p>Reproducible terminal tasks that test whether AI agents can solve real engineering problems.</p>
+<p>Docker environments, seeded defects, reference solutions, and automated checks designed to catch plausible but incorrect implementations.</p>
+<p><code>Python</code> <code>Docker</code> <code>Linux</code> <code>Testing</code></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+<h3><a href="https://github.com/minhaj-mhd/Fin-Algo">Fin-Algo · ML research ↗</a></h3>
+<p>A research-first system for cross-sectional equity ranking, with walk-forward validation, leakage checks, and a paper-trading engine.</p>
+<p>Focused on testing whether model results survive trading costs and out-of-sample evaluation.</p>
+<p><code>Python</code> <code>XGBoost</code> <code>Learning to rank</code></p>
 
-### Backend
+</td>
+</tr>
+</table>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+Also built: a Go-based marketplace cart and pricing engine covering promotions, coupons, and checkout rules; and WiFi Tracker, an Android app for tracking time connected to a chosen network.
+Toolbox
+Area	Tools and techniques
+Machine learning	PyTorch, TensorFlow, scikit-learn, XGBoost, pandas, NumPy
+Retrieval and agents	Two-tower models, FAISS, pgvector, RAG, MCP, real-time voice
+Backend and data	Python, Go, FastAPI, Django, asyncio, WebSockets, PostgreSQL, MongoDB
+Engineering	Docker, Linux, Git, pytest, reproducible experiments, automated evaluation
 
----
 
-### AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 🌱 Current Focus
-
-- Large Language Models (LLMs)
-- Transformer Architectures
-- Recommendation Systems
-- AI Agents
-- MLOps
-- RAG Pipelines
-- Distributed AI Systems
-- GPU Inference Optimization
-- Reinforcement Learning
-- Multimodal AI
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Recommendation System
-- Two Tower Recommendation Model
-- TensorFlow Recommenders
-- Transformer User Encoder
-- FAISS Retrieval
-- Candidate Generation Pipeline
-
----
-
-### 🧠 LLM Research Projects
-- RAG Applications
-- Semantic Search
-- Vector Databases
-- Agentic AI Systems
-- Knowledge Graph Integration
-
----
-
-### 🌐 Backend Systems
-
-- High-performance FastAPI services
-- Django Applications
-- Authentication Systems
-- REST APIs
-- WebSocket Applications
-- Async Python Services
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaj-mhd&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaj-mhd&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-mhd&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaj-mhd&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Build production-ready AI systems
-- Contribute to open-source AI projects
-- Publish research implementations
-- Master LLM architecture and training
-- Build scalable ML infrastructure
-- Work on frontier AI technologies
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/mohmmed-minhaj)
-
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/minhajmuhamad)
-
----
-
-<div align="center">
-
-### "Build. Learn. Share. Repeat."
-
-⭐ If you like my work, feel free to star my repositories!
-
-</div>
+How I approach engineering
+Start with a baseline. Understand what a simple solution can do before adding complexity.
+Make failures reproducible. Keep the environment, inputs, and checks clear enough to investigate what went wrong.
+Report what holds up. Separate promising experiments from validated results. Negative results are useful, too.
+Beyond the keyboard
+I enjoy reading, staying active, and motorcycle rides. I'm curious about how things work — in software and outside it.
+I'm happy to connect over recommendation systems, AI agents, backend engineering, or a good idea worth testing.
+<p align="center"><sub>Build with curiosity. Test with discipline.</sub></p>
